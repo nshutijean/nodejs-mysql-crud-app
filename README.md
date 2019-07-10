@@ -1,5 +1,7 @@
 # CRUD app using MYSQL DB (XAMP) in NodeJs
-Packages used: -express
+Packages used: 
+               
+               -express
                -mysql
                -body-parser
 
@@ -8,7 +10,9 @@ Packages used: -express
 
 *Table*: employee
 
-*Atttributes*: -EmpId
+*Atttributes*: 
+               
+               -EmpId
 
                -Name
                
